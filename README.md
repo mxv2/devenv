@@ -15,3 +15,7 @@ chmod +x ~/bin/ssh-add-keys
 ln -s /Users/m.kiryanov/Codebase/Personal/devenv/scripts/auto-add-key ~/bin/auto-add-key
 chmod +x ~/bin/auto-add-key
 ```
+
+### Pitfalls
+
+* https://rabexc.org/posts/pitfalls-of-ssh-agents
